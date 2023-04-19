@@ -15,9 +15,7 @@ const InfoSection = ({ lightBg, imgStart }) => {
         <Container>
           <InfoRow imgStart={imgStart}>
             <InfoColumn>
-              <TextWrapper>
-                <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
-              </TextWrapper>
+              <TextWrapper>Home Page</TextWrapper>
             </InfoColumn>
           </InfoRow>
         </Container>
